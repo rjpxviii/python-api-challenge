@@ -1,0 +1,6 @@
+# Ignore system files and virtual environment
+.DS_Store
+venv/
+
+# Prevent tracking of api_keys.py
+Starter_Code/starter_code/api_keys.py
